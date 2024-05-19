@@ -15,7 +15,7 @@ on:
       - ".github/workflows/push-latest.yml"
 
 env:
-  ORGANIZATION: "zenika"
+  ORGANIZATION: "zsozso22"
   IMAGE_NAME: "terraform-azure-cli"
   IMAGE_TAG: "latest"
 

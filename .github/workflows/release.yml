@@ -34,7 +34,7 @@ jobs:
       matrix: ${{ fromJSON(needs.load_supported_versions.outputs.matrix) }}
 
     env:
-      ORGANIZATION: "zenika"
+      ORGANIZATION: "zsozso22"
       IMAGE_NAME: "terraform-azure-cli"
 
     steps:
